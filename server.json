@@ -1,0 +1,111 @@
+{
+    "category": [
+      {
+        "id": 1,
+        "name": "category",
+        "title": "Categoria"
+      },
+      {
+        "id": 2,
+        "name": "childish",
+        "title": "Infantil"
+      },
+      {
+        "id": 3,
+        "name": "adult",
+        "title": "Adulto"
+      }
+    ],
+    "model": [
+      {
+        "id": 1,
+        "name": "model",
+        "title": "Modelo"
+      },
+      {
+        "id": 2,
+        "name": "mini-table",
+        "title": "Mini Table"
+      },
+      {
+        "id": 3,
+        "name": "standard",
+        "title": "Padrão"
+      }
+    ],
+    "themes": [
+      {
+        
+        "Category_id": 2,
+        "Model_id": 2,
+        "name": "Mikey 2021",
+        "type": "Mickey",
+        "category": "INFANTIL",
+        "model": "MINI_TABLE",
+        "url_img": "https://uploadmpdecoracoes.s3.amazonaws.com/cac093ff6a746cf454b8d01b3f294f73-mickey.jpg",
+        "createAt": "new Date()"
+    
+    },
+    {
+      
+        "Category_id": 2,
+        "Model_id": 2,
+        "name": "Branca de neve",
+        "type": "Branca de neve",
+        "category": "INFANTIL",
+        "model": "MINI_TABLE",
+        "url_img": "https://uploadmpdecoracoes.s3.amazonaws.com/44652fe0733cce269f2c747b8ab87b29-brancadeneve.jpeg",
+        "createAt": "new Date()"
+    
+    },
+    {
+      
+        "Category_id": 3,
+        "Model_id": 2,
+        "name": "Spider man",
+        "type": "Spider many",
+        "category": "ADULTO",
+        "model": "MINI_TABLE",
+        "url_img": "https://uploadmpdecoracoes.s3.amazonaws.com/a033f770c043c80c0167859a71378aa6-spiderman.jpeg",
+        "createAt": "new Date()"
+    
+    },
+    {
+      
+        "Category_id": 3,
+        "Model_id": 3,
+        "name": "Free Fire",
+        "type": "Free Fire",
+        "category": "ADULTO",
+        "model": "PADRAO",
+        "url_img": "https://uploadmpdecoracoes.s3.amazonaws.com/e8e0ed868b30f56a09f9a39bfce9c2bf-freefire.jpeg",
+        "createAt": "new Date()"
+    
+    },
+    {
+      
+      "Category_id": 2,
+      "Model_id": 3,
+      "name": "Mundo Bita",
+      "type": "Mundo Bita",
+      "category": "INFANTIL",
+      "model": "PADRAO",
+      "url_img": "https://uploadmpdecoracoes.s3.amazonaws.com/9e3229b8245eca3bc1c9aacf47e8aabd-mundobita.jpeg",
+      "createAt": "new Date()"
+  
+  },
+  {
+      
+    "Category_id": 2,
+    "Model_id": 2,
+    "name": "Minie",
+    "type": "Minie",
+    "category": "INFANTIL",
+    "model": "MINI_TABLE",
+    "url_img": "https://uploadmpdecoracoes.s3.amazonaws.com/ceeff84aab99c76f3359248c915ca6f9-minie.jpeg",
+    "createAt": "new Date()"
+
+}
+     
+    ]
+  }
